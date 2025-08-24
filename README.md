@@ -3,6 +3,18 @@
 
 ---
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&lines=Web+Developer;Java+Enthusiast;Cloud+Computing+Topper;Lifelong+Learner;Open+Source+Contributor"/>
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
+
+---
+
 ## 🧭 About Me  
 - 👩‍💻 **Current Role:** Web Developer Intern @ Websums Pvt. Ltd.  
 - 🌱 **Learning & Exploring:** React.js · Spring Boot · Cloud Computing · System Design  
@@ -13,11 +25,9 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Java, Python (Django)  
-- **Databases:** MySQL, SQLite  
-- **Testing:** JUnit  
-- **Tools:** Git, GitHub, VS Code, Eclipse, Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,django,mysql,sqlite,git,github,vscode,eclipse,postman&perline=6" />
+</p>
 
 ---
 
@@ -64,6 +74,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shwetannarkhede&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetannarkhede&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## ⚡ GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shwetannarkhede&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetannarkhede&theme=radical&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Shwetannarkhede/Shwetannarkhede/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
