@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shweta Narkhede</h1>
-<h3 align="center">🚀 Web Developer | 🛠️ Java Enthusiast | 🎯 Lifelong Learner</h3>
+<h3 align="center">🚀 Java Developer | 🛠️ Full Stack Enthusiast | 🎯 Lifelong Learner</h3>
 
 ---
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&lines=Web+Developer;Java+Enthusiast;Cloud+Computing+Topper;Lifelong+Learner;Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&lines=Java+Developer;Full+Stack+Learner;Cloud+Computing+Topper;Lifelong+Learner;Open+Source+Contributor"/>
 </p>
 
 <!-- Coding GIF -->
@@ -16,50 +16,39 @@
 ---
 
 ## 🧭 About Me  
-- 👩‍💻 **Current Role:** Web Developer Intern @ Websums Pvt. Ltd.  
-- 🌱 **Learning & Exploring:** React.js · Spring Boot · Cloud Computing · System Design  
+- 👩‍💻 **Current Role:** Learning Full Stack Java Development  
+- 🌱 **Currently Learning:** Core Java, Advanced Java (JDBC, Servlets, JSP), SQL, HTML, CSS, JavaScript  
 - 🏆 **Achievements:** Topper in **NPTEL Cloud Computing** course  
-- 🎓 **Internship Experience:** Infosys Springboard & Websums Pvt. Ltd.  
-- 💡 I enjoy building responsive, user-friendly, and scalable applications  
+- 🎓 **Internship Experience:** Infosys Springboard & Websums Pvt. Ltd.
+- 💡 Passionate about backend development, database management, and building user-friendly applications  
 
 ---
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,django,mysql,sqlite,git,github,vscode,eclipse,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,mysql,sqlite,git,github,vscode,eclipse,postman&perline=6" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
+### 🔹 **Online Food Ordering System** *(Infosys Springboard)*  
+- Built with **HTML, CSS, JavaScript, Python (Django)**  
+- Features: User authentication, cart, order management, and admin panel  
+
+### 🔹 **Student Management System with JDBC + MySQL**  
+- A **Java console-based project** implementing CRUD operations  
+- Follows a **modular architecture** with Controller, Service, and DAO layers  
+
+### 🔹 **Digital Planner**  
+- Developed using **Flutter, Dart, and Firebase**  
+- Helps users plan, organize, and track daily tasks seamlessly  
+
 ### 🔹 **Calculator (Web App)**  
 - Built with **HTML, CSS, JavaScript**  
 - Supports basic arithmetic operations with a clean UI  
 
-### 🔹 **Calculator (Console App)** *(Infosys Internship)*  
-- Java-based console calculator  
-- Performs basic arithmetic and error handling  
-
-### 🔹 **Contact Management System** *(Infosys Internship)*  
-- Java console project  
-- Add, update, delete, and search contacts  
-
-### 🔹 **Library Management System** *(Infosys Internship)*  
-- Java + SQLite database integration  
-- Manage books, members, and borrow/return transactions  
-
-### 🔹 **Bank Account Management System** *(Infosys Internship)*  
-- Java project with **JUnit testing**  
-- Account creation, deposit, withdrawal, balance check  
-
-### 🔹 **Real-Time Chat Application** *(Infosys Internship)*  
-- Developed using **Java Socket Programming**  
-- Supports multiple clients chatting in real time  
-
-### 🔹 **Online Food Ordering System** *(Infosys Internship)*  
-- Developed with **HTML, CSS, JS, Python (Django)**  
-- Features: User authentication, cart, order management, admin panel  
 
 ---
 
@@ -94,7 +83,7 @@
 <!--
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Shwetannarkhede/Shwetannarkhede/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shwetannarkhede/Shwetannarkhede/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 -->
 ---
