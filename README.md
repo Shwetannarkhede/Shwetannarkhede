@@ -98,6 +98,9 @@
   <a href="https://github.com/Shwetannarkhede" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+   <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" />
+  </a>
 </p>
 
 ---
