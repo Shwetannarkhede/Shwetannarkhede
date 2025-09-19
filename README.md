@@ -98,9 +98,15 @@
   <a href="https://github.com/Shwetannarkhede" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-   <a href="https://shwetannarkhede.github.io/shweta-portfolio/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" />
-  </a>
+<a href="https://shwetannarkhede.github.io/shweta-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange" />
+</a>
+
+
+
+
+
+
 </p>
 
 ---
