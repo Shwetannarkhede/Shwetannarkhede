@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,mysql,git,github,vscode,eclipse,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,django,mysql,git,github,vscode,eclipse&perline=6" />
 </p>
 
 ---
