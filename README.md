@@ -92,8 +92,8 @@ const shweta = {
 <td width="50%">
 
 ### 🍽️ Online Food Ordering System
-<a href="https://github.com/Shwetannarkhede/Online-Food-Ordering-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Online-Food-Ordering-System&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Shwetannarkhede/online-food-ordering-system">
+  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/online-food-ordering-system" width="400"/>
 </a>
 
 **Tech:** Python • Django • HTML • CSS • JavaScript  
@@ -106,8 +106,8 @@ const shweta = {
 <td width="50%">
 
 ### 🎓 Student Management System
-<a href="https://github.com/Shwetannarkhede/Student-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Student-Management-System&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Shwetannarkhede/student-management-system">
+  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/student-management-system" width="400"/>
 </a>
 
 **Tech:** Java • JDBC • MySQL  
@@ -123,8 +123,8 @@ const shweta = {
 <td width="50%">
 
 ### 📅 Digital Planner
-<a href="https://github.com/Shwetannarkhede/Digital-Planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Digital-Planner&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Shwetannarkhede/digital-planner">
+  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/digital-planner" width="400"/>
 </a>
 
 **Tech:** Flutter • Dart • Firebase  
@@ -137,8 +137,8 @@ const shweta = {
 <td width="50%">
 
 ### 🧮 Calculator Web App
-<a href="https://github.com/Shwetannarkhede/Calculator-web-App-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Calculator-App&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Shwetannarkhede/calculator-app">
+  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/calculator-app" width="400"/>
 </a>
 
 **Tech:** HTML • CSS • JavaScript  
@@ -152,6 +152,7 @@ const shweta = {
 </table>
 
 </div>
+
 
 
 ---
