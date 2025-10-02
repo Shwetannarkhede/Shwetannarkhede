@@ -83,7 +83,6 @@ const shweta = {
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -93,25 +92,29 @@ const shweta = {
 <td width="50%">
 
 ### 🍽️ Online Food Ordering System
-<a href="https://github.com/Shwetannarkhede"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Online-Food-Ordering-System&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Shwetannarkhede/Online-Food-Ordering-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Online-Food-Ordering-System&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
 
-**Tech:** Python • Django • HTML • CSS • JavaScript
+**Tech:** Python • Django • HTML • CSS • JavaScript  
 
 ✨ User authentication & cart management  
 ✨ Order tracking & admin dashboard  
-✨ Responsive design for all devices
+✨ Responsive design for all devices  
 
 </td>
 <td width="50%">
 
 ### 🎓 Student Management System
-<a href="https://github.com/Shwetannarkhede"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Student-Management-System&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Shwetannarkhede/Student-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Student-Management-System&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
 
-**Tech:** Java • JDBC • MySQL
+**Tech:** Java • JDBC • MySQL  
 
 ✨ Complete CRUD operations  
 ✨ MVC architecture pattern  
-✨ Database integration
+✨ Database integration  
 
 </td>
 </tr>
@@ -120,31 +123,36 @@ const shweta = {
 <td width="50%">
 
 ### 📅 Digital Planner
-<a href="https://github.com/Shwetannarkhede"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Digital-Planner&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Shwetannarkhede/Digital-Planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Digital-Planner&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
 
-**Tech:** Flutter • Dart • Firebase
+**Tech:** Flutter • Dart • Firebase  
 
 ✨ Task planning & organization  
 ✨ Cloud synchronization  
-✨ Cross-platform mobile app
+✨ Cross-platform mobile app  
 
 </td>
 <td width="50%">
 
 ### 🧮 Calculator Web App
-<a href="https://github.com/Shwetannarkhede"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Calculator-App&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Shwetannarkhede/Calculator-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Calculator-App&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript  
 
 ✨ Modern responsive UI  
 ✨ Keyboard support  
-✨ Basic & advanced operations
+✨ Basic & advanced operations  
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
@@ -212,15 +220,6 @@ const shweta = {
 
 ---
 
-<div align="center">
-  
-### 🎵 Coding Vibes
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26pvwsh3bqnupfhwx5ysx5fqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
