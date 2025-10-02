@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shwetannarkhede&label=Profile%20Views&color=FF5733&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shwetannarkhede?label=Followers&style=flat-square&color=FF5733" alt="Followers" />
+  <!-- <img src="https://img.shields.io/github/followers/Shwetannarkhede?label=Followers&style=flat-square&color=FF5733" alt="Followers" /> -->
 </p>
 
 <p align="center">
