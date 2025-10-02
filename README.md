@@ -137,7 +137,7 @@ const shweta = {
 <td width="50%">
 
 ### 🧮 Calculator Web App
-<a href="https://github.com/Shwetannarkhede/Calculator-App">
+<a href="https://github.com/Shwetannarkhede/Calculator-web-App-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=Calculator-App&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
