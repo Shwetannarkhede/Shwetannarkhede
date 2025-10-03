@@ -137,8 +137,8 @@ const shweta = {
 <td width="50%">
 
 ### 🧮 Calculator Web App
-<a href="https://github.com/Shwetannarkhede/calculator-app">
-  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/calculator-app" width="400"/>
+<a href="https://github.com/Shwetannarkhede/Calculator-app">
+  <img src="https://opengraph.githubassets.com/1/Shwetannarkhede/Calculator-app" width="400"/>
 </a>
 
 **Tech:** HTML • CSS • JavaScript  
