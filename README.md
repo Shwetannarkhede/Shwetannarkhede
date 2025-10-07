@@ -153,8 +153,6 @@ const shweta = {
 
 </div>
 
-
-
 ---
 
 ## 🏆 Achievements & Certifications
