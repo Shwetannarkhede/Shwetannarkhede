@@ -23,19 +23,19 @@
 const shweta = {
     role: "Java Developer & Full Stack Engineer",
     location: "India 🇮🇳",
-    code: ["Java", "Python", "JavaScript", "SQL", "Dart"],
+    code: ["Java", "Python", "JavaScript", "SQL"],
     technologies: {
-        backend: ["Spring Boot", "Django", "JDBC"],
+        backend: ["Spring Boot", "JDBC"],
         frontend: ["HTML/CSS", "Bootstrap", "Flutter"],
-        databases: ["MySQL", "Firebase"],
+        databases: ["MySQL"],
         tools: ["Git", "Postman", "VS Code", "Eclipse"]
     },
     currentFocus: "Building scalable microservices",
-    learning: ["Spring Boot", "DSA", "System Design"],
+    learning: ["Spring Boot", "DSA"],
     achievements: ["NPTEL Cloud Computing Topper 🏆"],
     askMeAbout: ["Backend", "Cloud", "Database Design"],
     challenge: "Learning something new every day",
-    funFact: "I speak fluent Java and Python... but still learning human languages! 😄"
+    funFact: "I speak fluent Java ... but still learning human languages! 😄"
 };
 ```
 
@@ -45,7 +45,6 @@ const shweta = {
 - 📚 Deep diving into **Spring Boot & Microservices Architecture**
 - 🌱 Mastering **Data Structures, Algorithms & System Design**
 - 🤝 Open to **collaborating on innovative projects**
-- 💡 Exploring **Cloud Computing & DevOps practices**
 - 📫 Reach me: **shwetanarkhede52@gmail.com**
 
 <br clear="right"/>
