@@ -8,7 +8,6 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Shwetannarkhede&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-    <!-- <img src="https://img.shields.io/github/followers/Shwetannarkhede?label=Followers&style=flat-square&color=blueviolet" alt="Followers" /> -->
     <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus" />
   </p>
 </div>
@@ -26,14 +25,14 @@ const shweta = {
     code: ["Java", "Python", "JavaScript", "SQL"],
     technologies: {
         backend: ["Spring Boot", "JDBC"],
-        frontend: ["HTML/CSS", "Bootstrap", "Flutter"],
-        databases: ["MySQL"],
-        tools: ["Git", "Postman", "VS Code", "Eclipse"]
+        frontend: ["HTML/CSS", "Bootstrap"],
+        databases: ["MySQL","MongoDB"],
+        tools: ["Git", "Postman", "VS Code", "Eclipse","Intellij"]
     },
     currentFocus: "Building scalable microservices",
     learning: ["Spring Boot", "DSA"],
     achievements: ["NPTEL Cloud Computing Topper 🏆"],
-    askMeAbout: ["Backend", "Cloud", "Database Design"],
+    askMeAbout: ["Backend",  "Database "],
     challenge: "Learning something new every day",
     funFact: "I speak fluent Java ... but still learning human languages! 😄"
 };
@@ -111,16 +110,23 @@ const shweta = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shwetannarkhede&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetannarkhede&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shwetannarkhede&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetannarkhede&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetannarkhede&layout=donut&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages Donut"/>
+
 </div>
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetannarkhede&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shwetannarkhede&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Shwetannarkhede&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)](https://github.com/Shwetannarkhede)
+
 </div>
 
 ---
@@ -128,7 +134,23 @@ const shweta = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetannarkhede&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shwetannarkhede&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true&radius=8)](https://github.com/Shwetannarkhede)
+
+</div>
+
+---
+
+## 📊 Detailed Profile Summary
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shwetannarkhede&theme=radical)](https://github.com/Shwetannarkhede)
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shwetannarkhede&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shwetannarkhede&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shwetannarkhede&theme=radical&utcOffset=5.5" />
+
 </div>
 
 ---
@@ -169,16 +191,6 @@ const shweta = {
 ### 💭 Developer Quote
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shwetannarkhede&theme=radical)
 
 </div>
 
