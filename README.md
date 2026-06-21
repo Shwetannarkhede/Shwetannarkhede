@@ -158,18 +158,19 @@ const shweta = {
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Shwetannarkhede/StudentHub-Using-JDBC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=React-SpringBoot-Student-Manager&theme=radical&hide_border=true&bg_color=0D1117" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Shwetannarkhede/PhoneBookWebApplication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=PhoneBookWebApplication&theme=radical&hide_border=true&bg_color=0D1117" />
-      </a>
-    </td>
-  </tr>
+<tr>
+  <td width="50%">
+<a href="https://github.com/Shwetannarkhede/SkillForge-AI-AI-Powered-Career-Skill-Development-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=SkillForge-AI-AI-Powered-Career-Skill-Development-Platform&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+  </td>
+  <td width="50%">
+    <a href="https://github.com/Shwetannarkhede/StudentHub-Using-JDBC">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=StudentHub-Using-JDBC&theme=radical&hide_border=true&bg_color=0D1117" />
+    </a>
+  </td>
+</tr>
+ 
  
 </table>
 
