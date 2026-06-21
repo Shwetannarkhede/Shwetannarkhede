@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Shweta%20👋&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Java+Developer+%7C+Full+Stack+Engineer;Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;NPTEL+Cloud+Computing+Topper+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
