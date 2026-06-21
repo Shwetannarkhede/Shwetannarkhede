@@ -1,50 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shweta%20Narkhede&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Shweta%20👋&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Java+Developer+%7C+Full+Stack+Engineer;Building+Scalable+Cloud+Solutions;NPTEL+Cloud+Computing+Topper+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Shwetannarkhede&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus" />
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Java+Developer+%7C+Full+Stack+Engineer;Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;NPTEL+Cloud+Computing+Topper+%F0%9F%8F%86;Open+Source+Enthusiast+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+
+<p>
+  <a href="https://linkedin.com/in/shweta-narkhede-23b12328b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shwetannarkhede"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shwetanarkhede52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const shweta = {
     role: "Java Developer & Full Stack Engineer",
     location: "India 🇮🇳",
-    code: ["Java", "Python", "JavaScript", "SQL"],
+    code: ["Java", "Python", "JavaScript", "SQL", "Dart"],
     technologies: {
-        backend: ["Spring Boot", "JDBC"],
-        frontend: ["HTML/CSS", "Bootstrap"],
-        databases: ["MySQL","MongoDB"],
-        tools: ["Git", "Postman", "VS Code", "Eclipse","Intellij"]
+        backend:   ["Spring Boot", "JDBC", "Django"],
+        frontend:  ["HTML/CSS", "Bootstrap", "Flutter"],
+        databases: ["MySQL", "MongoDB", "Firebase"],
+        tools:     ["Git", "Postman", "VS Code", "Eclipse", "IntelliJ"]
     },
-    currentFocus: "Building scalable microservices",
-    learning: ["Spring Boot", "DSA"],
+    currentFocus: "Building scalable microservices ⚙️",
+    learning: ["Spring Boot", "DSA", "System Design"],
     achievements: ["NPTEL Cloud Computing Topper 🏆"],
-    askMeAbout: ["Backend",  "Database "],
-    challenge: "Learning something new every day",
-    funFact: "I speak fluent Java ... but still learning human languages! 😄"
+    askMeAbout: ["Backend Architecture", "Databases", "Java"],
+    challenge: "Learning something new every day 📚",
+    funFact: "I speak fluent Java... but still learning human languages! 😄"
 };
 ```
 
 ### 🎯 What I'm Up To
 
-- 🔨 Building **enterprise-level Java applications**
-- 📚 Deep diving into **Spring Boot & Microservices Architecture**
-- 🌱 Mastering **Data Structures, Algorithms & System Design**
-- 🤝 Open to **collaborating on innovative projects**
-- 📫 Reach me: **shwetanarkhede52@gmail.com**
+```text
+🔨  Building enterprise-level Java applications
+📚  Deep diving into Spring Boot & Microservices Architecture
+🌱  Mastering Data Structures, Algorithms & System Design
+🤝  Open to collaborating on innovative projects
+📫  Reach me at shwetanarkhede52@gmail.com
+```
 
 <br clear="right"/>
 
@@ -52,58 +57,41 @@ const shweta = {
 
 ## 🛠️ Tech Arsenal
 
-<details open>
-<summary><b>🔧 Technologies & Tools</b></summary>
-<br>
-
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 💻 Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### ⚙️ Backend & Frameworks
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-</details>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Achievement | 📋 Details |
-|:---:|:---|
-| 🥇 **NPTEL Cloud Computing** | Course Topper - Demonstrated excellence in cloud technologies |
-| 💼 **Infosys Springboard** | Completed internship certification program |
-| 🎨 **Front-End Development** | Certified in modern web development practices |
-| 🚀 **Websums Pvt. Ltd.** | Gained hands-on industry experience through internship |
+### 🧰 Developer Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
+
 
 ---
 
@@ -120,6 +108,7 @@ const shweta = {
 
 </div>
 
+---
 
 ## 🏅 GitHub Trophies
 
@@ -138,6 +127,14 @@ const shweta = {
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shwetannarkhede&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true&radius=8)](https://github.com/Shwetannarkhede)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!-- Snake animation: add this workflow on GitHub Actions to enable it
+     https://github.com/Platane/snk — then this image will animate your contribution graph as a snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+<!--END_SECTION:waka-->
 
 ---
 
@@ -158,6 +155,24 @@ const shweta = {
 ## 🌟 Featured Projects
 
 <div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Shwetannarkhede/StudentHub-Using-JDBC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=React-SpringBoot-Student-Manager&theme=radical&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Shwetannarkhede/PhoneBookWebApplication">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shwetannarkhede&repo=PhoneBookWebApplication&theme=radical&hide_border=true&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+ 
+</table>
+
+<br>
 
 <a href="https://github.com/Shwetannarkhede?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_Projects-F85D7F?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
@@ -185,17 +200,6 @@ const shweta = {
 
 ---
 
-<div align="center">
-  
-### 💭 Developer Quote
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <div align="center">
 
@@ -208,6 +212,5 @@ const shweta = {
 
 ⭐️ *If you like my projects, consider giving them a star!* ⭐️
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 </div>
